@@ -1,5 +1,4 @@
 var floatAge, floatDays, intWeeks, floatMonths, intFortnight;
-/*This program will calculate age in days, weeks, months, and fortnights*/
 floatAge= parseFloat(prompt("How old are you?"))
 floatDays= parseFloat(floatAge*365.25)
 intWeeks=parseInt(floatDays/7)
