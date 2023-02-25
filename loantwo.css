@@ -1,0 +1,46 @@
+body {
+    font-family: 'Times New Roman', serif, Helvetica, sans-serif;
+    background: #04505e;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: lavender;
+    border: 9px solid #004000;
+}
+
+h1 {
+	text-align: left;
+}
+
+p {
+	color: darkmagenta;
+	font-weight: bold;
+    font-family:'Franklin Gothic Medium';
+	text-align: left;
+    text:
+}
+
+label {
+    display: block;
+    width: 20em;
+    text-align: left;
+    padding-right: 1em;
+    float: left;
+}
+
+input {
+    display: block;
+    float: left;
+    width: 75px;
+}
+
+#futureValue {
+    color: #000070;
+}
+
+br {
+    clear: left;
+}
